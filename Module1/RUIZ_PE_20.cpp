@@ -31,11 +31,11 @@ void drawStar() {
 
     const float PI = 3.14159265f;
 
-    const float centerX = -0.65f;
-    const float centerY = 0.55f;
+    const float centerX = -0.60f;
+    const float centerY = 0.50f;
 
-    const float outerRadius = 0.25f;
-    const float innerRadius = 0.10f;
+    const float outerRadius = 0.22f;
+    const float innerRadius = 0.09f;
 
     glBegin(GL_POLYGON);
 
