@@ -30,10 +30,8 @@ void drawStar() {
     glColor3f(1.0f, 1.0f, 0.0f);
 
     const float PI = 3.14159265f;
-
     const float centerX = -0.60f;
     const float centerY = 0.50f;
-
     const float outerRadius = 0.22f;
     const float innerRadius = 0.09f;
 
